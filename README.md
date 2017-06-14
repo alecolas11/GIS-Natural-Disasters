@@ -1,12 +1,9 @@
-## Welcome to GitHub Pages
+#Natural Disaster Prevention
 
-You can use the [editor on GitHub](https://github.com/alecolas11/GIS-Natural-Disasters/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##What is GIS anyways?
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+GIS, or geographic information system, is a method that utilizes maps to store information. This heavily relates to the nature of natural disaster as they usualy effect large numbers of people in a large area. It stands to reason then that GIS can allow us to locate most probable locations for hurricanes, earthquakes, volcanos, etc.
 
 ```markdown
 Syntax highlighted code block
